@@ -1,0 +1,30 @@
+body {
+    background-color: lightpink;
+}
+
+.container {
+    background-color: white;
+}
+
+.pull-right img-thumbnail {
+    margin-top: -10px;
+    margin-bottom: 10px
+}
+
+.header-row {
+    margin-top: 20px
+}
+
+.banner-img {
+    height: 400px;
+    width: 3000px
+
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.product-img {
+    width: 70%;
+}
